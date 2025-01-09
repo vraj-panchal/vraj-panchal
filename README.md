@@ -8,7 +8,7 @@
         <ul>
             <li><strong> 🖥️ Programming Languages:</strong> C, C++, Java</li>
             <li><strong> 🌐 Web Technologies:</strong> HTML, CSS </li>
-            <li><strong> 📂 Database Management:</strong> SQL, DBMS</li>
+            <li><strong> 📂 Database Management:</strong> MySQL, DBMS</li>
         </ul>
     </section>
     
