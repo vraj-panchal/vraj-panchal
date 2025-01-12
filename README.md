@@ -20,13 +20,3 @@
   Instagram:</strong> <a href="https://www.instagram.com/vraj..panchal.?igsh=MWp4dmF6NnFxOXd5aA==&utm_source=ig_contact_invite">Follow Me</a></li>
      <li>   <p align="left">
 <a href="https://linkedin.com/in/vraj panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj panchal" height="20" width="20"/></a><strong>  LinkedIn : </strong> <a href="https://www.linkedin.com/">Connect Here</a></li>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vraj panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj panchal" height="30" width="40" /></a>
-<a href="https://instagram.com/vraj._.panchal._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vraj._.panchal._" height="30" width="40" /></a>
-</p>
-
-           
-       
