@@ -4,8 +4,8 @@
 
 <h1 align="center">Hello, I'm Vraj Panchal👋</h1>
 
-<h3>🎓 Aspiring IT Professional | Semester 4 B.Sc. IT</h3>
-<h3>💡 Innovating, Learning, and Growing Every Day</h3>
+<h3>B.Sc. IT (Sem 5) Student | Future Tech Leader 🚀</h3>
+<h3>Passionate about coding, creativity, and continuous learning</h3>
 
 <section class="section">
   <h2>🛠️ Tech Toolkit</h2>
