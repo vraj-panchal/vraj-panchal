@@ -32,7 +32,6 @@
   </ul>
 </section>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
@@ -65,7 +64,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="github" width="40" height="40" style="filter: invert(38%) sepia(87%) saturate(619%) hue-rotate(89deg) brightness(95%) contrast(90%);"/>
   </a>
 </p>
 
