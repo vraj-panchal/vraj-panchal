@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, I'm Vraj Panchal👋</h1>
 
-<h3>B.Sc. IT (Sem 5) Student | Future Tech Leader 🚀</h3>
+<h3>B.Sc. IT (Sem 6) Student | Future Tech Leader 🚀</h3>
 <h3>Passionate about coding, creativity, and continuous learning</h3>
 
 <section class="section">
