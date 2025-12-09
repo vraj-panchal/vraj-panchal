@@ -10,9 +10,10 @@
 <section class="section">
   <h2>🛠️ Tech Toolkit</h2>
   <ul>
-    <li><strong>🖥️ Programming Languages:</strong> C, C++, Java</li>
+    <li><strong>🖥️ Programming Languages:</strong> C, C++, JavaScript</li>
     <li><strong>🌐 Web Technologies:</strong> HTML, CSS</li>
     <li><strong>📂 Database Management:</strong> MySQL, DBMS</li>
+    <li><strong>🚀 Deployment & Version Control:</strong> Git, GitHub</li>
   </ul>
 </section>
 
